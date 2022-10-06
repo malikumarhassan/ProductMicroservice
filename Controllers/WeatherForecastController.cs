@@ -31,6 +31,12 @@ namespace ProductMicroservice.Controllers
         }
 
 
+
+
+
+
+        /////
+
         //[HttpGet(Name = "GetWeatherForecastCurrent")]
         //public IEnumerable<WeatherForecast> GetWeatherForecastCurrent()
         //{
